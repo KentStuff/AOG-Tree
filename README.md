@@ -33,6 +33,8 @@ Tested mostly with picking points at lower left and allow to fill up and to the 
 
 It will do negative values, but not real sure of them.
 
+It turns the Number two section of the tool on when running manual and within 25 cm of the tree.
+
 Disclaimer:
 
 Created just for fun.  Do not use for any real purposes!!  Might crash your computer or something worst.  
